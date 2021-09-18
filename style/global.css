@@ -1,0 +1,41 @@
+/* Containers */
+.container-bg{
+    max-width: 1408px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.container{
+    max-width: 1460px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.container-sm{
+    max-width: 1160px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.container-xs{
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+
+/* Buttons */
+.button{
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FBF7F3;
+    border: 1px solid #7140EB;
+    transition: all .4s ease;
+    background: #7140EB;
+    text-decoration: none;
+    padding: 17px 30px;
+    border-radius: 9999px;
+}
+.button:hover{
+    background: transparent;
+    border: 1px solid #fff;
+}
